@@ -23,7 +23,7 @@
 
 - **Days 16–18:** Introduction to Verilog and VHDL syntax
 - **Days 19–21:** Combinational and sequential logic in HDL
-- **Days 22–24:** Simulation and test benches
+- **Days 22–24:** Simulation and testbenches
 - **Days 25–27:** SystemVerilog basics
 - **Days 28–30:** Advanced testbenches, HDL mini-project, or synthesis basics
 
