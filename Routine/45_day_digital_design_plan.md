@@ -25,6 +25,7 @@
 - **Days 19–21:** Combinational and sequential logic in HDL
 - **Days 22–24:** Simulation and test benches
 - **Days 25–27:** SystemVerilog basics
+- **Days 28–30:** Advanced testbenches, HDL mini-project, or synthesis basics
 
 ## Phase 3: Computer Design Integration (Days 31–45)
 **Book:** Logic & Computer Design Fundamentals (5th Ed.)
