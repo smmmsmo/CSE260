@@ -5,7 +5,7 @@
 ## 🔹 Overview
 | Phase | Duration | Main Book | Focus |
 |-------|-----------|------------|-------------|
-| 1 | Days 1–15 | Digital Design (M. Mano, 4th Ed.) | Logic Basics, Circuits |
+| 1 | Days 1–15 | Digital Design (M. Morris Mano, 4th Ed.) | Logic Basics, Circuits |
 | 2 | Days 16–30 | Digital Design: With an Introduction to the Verilog HDL, VHDL, and SystemVerilog (6th Ed.) | HDL Coding |
 | 3 | Days 31–45 | Logic & Computer Design Fundamentals (5th Ed.) | CPU Design & Integration |
 
