@@ -29,11 +29,11 @@
 ## Phase 3: Computer Design Integration (Days 31–45)
 **Book:** Logic & Computer Design Fundamentals (5th Ed.)
 
-- **Days 28–30:** Processor components and datapath design
-- **Days 31–33:** Arithmetic Logic Unit (ALU) design
-- **Days 34–36:** Control logic and microoperations
-- **Days 37–39:** Memory and I/O interface overview
-- **Days 40–42:** Mini CPU project (integration of logic and HDL concepts)
+- **Days 31–33:** Processor components and datapath design
+- **Days 34–36:** Arithmetic Logic Unit (ALU) design
+- **Days 37–39:** Control logic and microoperations
+- **Days 40–42:** Memory and I/O interface overview
+- **Days 43–45:** Mini CPU project (integration of logic and HDL concepts)
 
 ---
 **🧠 Study Tips:**
