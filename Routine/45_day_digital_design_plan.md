@@ -1,6 +1,5 @@
 # 📘 45-Day Digital Logic & Design Study Plan
 
-**Start Date:** October 16, 2025
 
 ## 🔹 Overview
 | Phase | Duration | Main Book | Focus |
@@ -19,7 +18,7 @@
 - **Days 13–15:** FSM basics and memory overview
 
 ## Phase 2: HDL & Simulation (Days 16–30)
-**Book:** Digital Design with Verilog, VHDL, and SystemVerilog (6th Ed.)
+**Book:** Digital Design: With an Introduction to the Verilog HDL, VHDL, and SystemVerilog (6th Ed.)
 
 - **Days 16–18:** Introduction to Verilog and VHDL syntax
 - **Days 19–21:** Combinational and sequential logic in HDL
